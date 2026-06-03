@@ -103,20 +103,6 @@ const pedro = {
 - Apps mobile com **React Native**
 - Integração de pagamentos com **Mercado Livre** e deeplink em máquinas POS Smart
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroLima8080&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=DD0031&icon_color=DD0031&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLima8080&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=DD0031&text_color=ffffff)
-
-</div>
-
----
-
 ## 🎓 Formação
 
 - 🎓 **Bacharelado em Ciência da Computação** — UNISAGRADO *(2022 – 2025)*
