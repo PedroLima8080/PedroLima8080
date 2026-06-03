@@ -6,8 +6,6 @@
 [![Email](https://img.shields.io/badge/Email-ph.lima014@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ph.lima014@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-PedroLima8080-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PedroLima8080)
 
-![Profile Views](https://komarev.com/ghpvc/?username=PedroLima8080&style=flat-square&color=DD0031)
-
 </div>
 
 ---
